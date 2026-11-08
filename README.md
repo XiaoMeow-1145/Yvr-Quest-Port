@@ -1,4 +1,4 @@
-# YVR 应用移植到 Quest 3S
+# YVR 应用移植到 Quest
 
 以目标 APK 的调用和实机证据决定兼容方案。完成用户要求的功能，并交付经过签名校验的 APK 与必要支持包。这份 Skill 综合 DeepSeek 早期记录、后续源码和证据，以及用户直到 build210 的测试反馈；私有属性编号、二进制地址和性能设置均有适用范围，不是全部 YVR 应用的规格。原记录中的实验和结论分别审核，纠错与未证实部分见 [references/history-corrections.md](references/history-corrections.md)。
 
